@@ -6,10 +6,10 @@
 			"items": {
 				"darwin-amd64": "tar:dz2npJS2qWs6qSXYHMuUip3N3qt8nApBrRv165vboKGH7jNERj4e9W5AHPza2rPq3",
 				"linux-amd64": "tar:7st3WqLqTZSvYMGL2i68xMr5F5MhjiFqoXAxigxFN7mdW8GdfaXs7CCu61jeycxdJV"
-			}
+			},
 			"metadata": null,
 			"hazards": null
-		}
+		},
 		{
 			"name": "v1.9",
 			"items": {
