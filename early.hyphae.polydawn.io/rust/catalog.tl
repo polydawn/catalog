@@ -1,5 +1,5 @@
 {
-	"name": "entwine.polydawn.io/rust",
+	"name": "early.hyphae.polydawn.io/rust",
 	"releases": [
 		{
 			"name": "v1.27.1",

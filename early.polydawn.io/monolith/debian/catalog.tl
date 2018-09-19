@@ -1,5 +1,5 @@
 {
-	"name": "images.polydawn.io/debuerreo",
+	"name": "early.polydawn.io/monolith/debian",
 	"releases": [
 		{
 			"name": "v2017-01-04",

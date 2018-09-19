@@ -1,6 +1,6 @@
 {
 	"byModule": {
-		"images.polydawn.io/debuerreo": {
+		"early.polydawn.io/monolith/debian": {
 			"tar": [
 				"ca+https://repeatr.s3.amazonaws.com/warehouse/"
 			]

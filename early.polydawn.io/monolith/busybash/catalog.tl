@@ -1,5 +1,5 @@
 {
-	"name": "images.polydawn.io/busybash",
+	"name": "early.polydawn.io/monolith/busybash",
 	"releases": [
 		{
 			"name": "v1",

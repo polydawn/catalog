@@ -1,5 +1,5 @@
 {
-	"name": "entwine.polydawn.io/go",
+	"name": "early.hyphae.polydawn.io/go",
 	"releases": [
 		{
 			"name": "v1.10",
