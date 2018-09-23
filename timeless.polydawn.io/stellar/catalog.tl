@@ -8,7 +8,7 @@
 			},
 			"metadata": null,
 			"hazards": null
-		}
+		},
 		{
 			"name": "v0.201",
 			"items": {
