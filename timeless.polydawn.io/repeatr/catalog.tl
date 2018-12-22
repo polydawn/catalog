@@ -2,6 +2,14 @@
 	"name": "timeless.polydawn.io/repeatr",
 	"releases": [
 		{
+			"name": "v0.220",
+			"items": {
+				"src": "git:c51c7956672176eb59c1b0a7f992bd74812fa3dd"
+			},
+			"metadata": null,
+			"hazards": null
+		},
+		{
 			"name": "v0.210",
 			"items": {
 				"src": "git:72b79d281720ea29ca77597e3cdba25d1b7145bc"

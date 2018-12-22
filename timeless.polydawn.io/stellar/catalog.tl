@@ -2,6 +2,14 @@
 	"name": "timeless.polydawn.io/stellar",
 	"releases": [
 		{
+			"name": "v0.220",
+			"items": {
+				"src": "git:c810efbbb28ac8ce01711764e2442d63cfc92de8"
+			},
+			"metadata": null,
+			"hazards": null
+		},
+		{
 			"name": "v0.210",
 			"items": {
 				"src": "git:db28b64544c38801773bd24922dc55286d73c96b"
