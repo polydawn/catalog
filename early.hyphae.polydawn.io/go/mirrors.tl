@@ -1,5 +1,11 @@
 {
 	"byWare": {
+		"tar:3SbM6Wy1SpEKxAsEGrdTBLx8L3jHWUsLfASWAjHaT1Tc8294ok3fKnobgYKdVaHs6c": [
+			"https://storage.googleapis.com/golang/go1.11.linux-amd64.tar.gz"
+		],
+		"tar:3iXrvwyf1ybzvz3v9jkkmH2urahgxm4c3RQZuo3g6Hu5BZbsaAoNP1gj3RDGcpgpcz": [
+			"https://storage.googleapis.com/golang/go1.11.darwin-amd64.tar.gz"
+		],
 		"tar:66TGTHk9uLGp9FsEcKiLR3Mbd69TJoacyCpoGSTWjAXr9aD9jBnBMqTBbGCbmoU92r": [
 			"https://storage.googleapis.com/golang/go1.8.linux-amd64.tar.gz"
 		],

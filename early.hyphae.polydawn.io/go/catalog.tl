@@ -2,6 +2,15 @@
 	"name": "early.hyphae.polydawn.io/go",
 	"releases": [
 		{
+			"name": "v1.11",
+			"items": {
+				"darwin-amd64": "tar:3iXrvwyf1ybzvz3v9jkkmH2urahgxm4c3RQZuo3g6Hu5BZbsaAoNP1gj3RDGcpgpcz",
+				"linux-amd64": "tar:3SbM6Wy1SpEKxAsEGrdTBLx8L3jHWUsLfASWAjHaT1Tc8294ok3fKnobgYKdVaHs6c"
+			},
+			"metadata": null,
+			"hazards": null
+		},
+		{
 			"name": "v1.10",
 			"items": {
 				"darwin-amd64": "tar:dz2npJS2qWs6qSXYHMuUip3N3qt8nApBrRv165vboKGH7jNERj4e9W5AHPza2rPq3",
