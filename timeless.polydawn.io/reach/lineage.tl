@@ -1,6 +1,14 @@
 {
-	"name": "timeless.polydawn.io/stellar",
+	"name": "timeless.polydawn.io/reach",
 	"releases": [
+		{
+			"name": "v0.300",
+			"items": {
+				"src": "git:6547ee45e14c65b57d07b519da4cbea4236324ea"
+			},
+			"metadata": null,
+			"hazards": null
+		},
 		{
 			"name": "v0.220",
 			"items": {

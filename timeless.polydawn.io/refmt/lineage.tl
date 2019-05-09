@@ -2,6 +2,14 @@
 	"name": "timeless.polydawn.io/refmt",
 	"releases": [
 		{
+			"name": "v0.300",
+			"items": {
+				"src": "git:01bf1e26dd14f9b71f26b7005a2b1ef514d5f9a4"
+			},
+			"metadata": null,
+			"hazards": null
+		},
+		{
 			"name": "v0.220",
 			"items": {
 				"src": "git:8b1e46de349b0c099d425ed8fddee3ff6eff3eef"
