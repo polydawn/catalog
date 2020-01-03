@@ -1,6 +1,14 @@
-{
+  {
 	"name": "timeless.polydawn.io/rio",
 	"releases": [
+		{
+			"name": "v0.310",
+			"items": {
+				"src": "git:4fef789ffc851aaf3ac291a91c21e477e6367811"
+			},
+			"metadata": null,
+			"hazards": null
+		},
 		{
 			"name": "v0.220",
 			"items": {
